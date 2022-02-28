@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy nevves from Ireland, or the barbarous crueltie by the papists used in that kingdome. By putting men to the svvord, deflovvring women, and dragging them up and downe the streets, and cruelly murdering them, and thrusting their speeres through their little infants before their eyes, and carrying them up and downe on pike-points, in great reproach, and hanging mens quarters on their gates in the street, at Armagh, Logall, at the Fort of Lease, and divers other places in Ireland. As also, the bloudy acts of Lord Mack-queere their ri[n]g-leader, and cousin to that arch-rebell Mack-queere Generall to Tyron, in the time of Queene Elizabeth of never dying memory. / Related by James Salmon lately come from thence, who hath lived there with his wife and children, these 10 yeeres last past, and now to escape the bloud-thirsty rebels, made an escape away by night, who is here resident in this city, Decemb. the 1. 1641.</title>
+            <author>Salmon, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93375</idno>
+            <idno type="STC">Wing S412</idno>
+            <idno type="STC">Thomason E179_9</idno>
+            <idno type="STC">ESTC R6446</idno>
+            <idno type="EEBO-CITATION">99872993</idno>
+            <idno type="PROQUEST">99872993</idno>
+            <idno type="VID">125440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125440)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E179[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy nevves from Ireland, or the barbarous crueltie by the papists used in that kingdome. By putting men to the svvord, deflovvring women, and dragging them up and downe the streets, and cruelly murdering them, and thrusting their speeres through their little infants before their eyes, and carrying them up and downe on pike-points, in great reproach, and hanging mens quarters on their gates in the street, at Armagh, Logall, at the Fort of Lease, and divers other places in Ireland. As also, the bloudy acts of Lord Mack-queere their ri[n]g-leader, and cousin to that arch-rebell Mack-queere Generall to Tyron, in the time of Queene Elizabeth of never dying memory. / Related by James Salmon lately come from thence, who hath lived there with his wife and children, these 10 yeeres last past, and now to escape the bloud-thirsty rebels, made an escape away by night, who is here resident in this city, Decemb. the 1. 1641.</title>
+                  <author>Salmon, James, 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Marke Rookes, and are to be sold in Grubstreet, neare to the Flying Horse,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing B3271 on UMI microfilm set "Early English Books, 1641-1700".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Enniskillen, Connor Maguire, --  Baron of, 1616-1645 --  Early works to 1800.</term>
+               <term>Maguire, Rory, 1618 or 19-1648 or 9 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125440:1" rendition="simple:additions"/>
+            <p>BLOVDY NEVVES FROM IRELAND, OR The barbarous Crueltie BY the Papiſts uſed in that <hi>KINGDOME.</hi>
+            </p>
+            <p>By putting men to the ſvvord, deflovvring Women, and dragging them up and downe the Streets, and cruelly murdering them, and thruſting their Speeres through their little Infants before their eyes, and carrying them up and downe on Pike-points, in great reproach, and hanging Mens quarters on their Gates in the Street, at <hi>Armagh, Logall,</hi> at the Fort of <hi>Leaſe,</hi> and divers other Places in <hi>Ireland.</hi>
+            </p>
+            <p>As alſo, the Bloudy Acts of Lord <hi>Mack-queere</hi> their <hi>Ri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g-leader,</hi> and Couſin to that Arch-Rebell <hi>Mack-queere</hi> Generall to <hi>Tyron,</hi> in the time of Queene <hi>Elizabeth</hi> of never dying memory.</p>
+            <p>Related by James Salmon lately come from thence, who hath lived there with his wife and children, theſe 10 yeeres laſt paſt, and now to eſcape the Bloud-thirſty Rebels, made an eſcape away by night, who is here reſident in this City, <hi>Decemb. the</hi> 1. 1641.</p>
+            <p>
+               <hi>London, Printed for Marke Rookes, and are to be ſold in Grubſtreet, ne<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e to the Flying Horſe,</hi> 1641.</p>
+            <pb facs="tcp:125440:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125440:3"/>
+            <pb facs="tcp:125440:3"/>
+            <div n="1" type="part">
+               <head>FIrſt, the reaſon of the unprovidedneſſe of the
+<hi>Proteſtants</hi> in Ireland, to defend themſelves againſt the Rebels.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Lord Deputy <hi>Wentworth</hi> (in his life-time) diſarmed the ſubjects there. There was a <hi>Proclamation</hi> ſet forth by him at the <hi>Parliament</hi> in <hi>Ireland:</hi> that neither <hi>Engliſh</hi> nor <hi>Iriſh,</hi> ſhould either ſell or keepe in their houſes any powder, upon the loſſe of goods and life; neither any Armes whatſoever: ſave onely what was allowed, and to be had with leave from the Kings Store-houſe in <hi>Dublin,</hi> pretending thereby to keepe the Natives under, and to prevent ſuch miſchiefes as might ariſe, if they were not thus curbed, and kept downe.</p>
+               <p>By this meanes, the Proteſtants could not have a<g ref="char:EOLhyphen"/>ny proviſion for defence; for powder they could not have, without danger of life, and goods as aforeſaid: onely except they could procure a Licence from Sir <hi>Iohn Burlacie,</hi> and after great friends and trouble, they could have but 5 pound of powder at the moſt, and that at two ſhillings a pound. So that whereas the Engliſh formerly had Armes, ſhot and powder, to defend their houſes, lives, and eſtates: now it being taken from them, and they left naked, it proves thus the ruine of the poore <hi>Proteſtants</hi> there.</p>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:125440:4"/>
+               <head>2 <hi>The cauſe of their ſudden riſing.</hi>
+               </head>
+               <p>The cauſe or their ſudden riſing, as it is ſuppoſed by the Engliſh inhabited in <hi>Ireland,</hi> was by their ta<g ref="char:EOLhyphen"/>king exception at a <hi>Petition</hi> drawne by ſome reve<g ref="char:EOLhyphen"/>rend Miniſters in <hi>Ireland,</hi> preſented to the Parlia<g ref="char:EOLhyphen"/>ment in <hi>England,</hi> to this effect.</p>
+               <p>That in every pariſh where there is a proteſtant Miniſter, there is likewiſe a popiſh prieſt, which is very true, and more then that, there is alſo in every pariſh a Fryer, a Monk, and an Abbot: beſides, with many more in ſeverall Abbies, doe reſigne three or foureſcore in a Fryers houſe.</p>
+               <p>Alſo, in every Dioceſſe whereas the King hath a Biſhop, ſo hath the pope alſo another: which hath cauſed this lamentable effect there, that whatſoever the King doth command, the popiſh Clergy doe for<g ref="char:EOLhyphen"/>bid, the conſideration whereof made a worthy Iudge there, not long ſince to ſay (<hi>Iudge Creſey by name</hi>) this is quoth he a miſerable caſe, deſiring the Gentlemen of the Gran-jury to preſent that grievance.</p>
+               <p>It is alſo reported in <hi>Ireland,</hi> that there is fifty two thouſand pounds a yeare, that goeth out of <hi>Ireland to the Pope:</hi> that is 1000-l. a weeke, a great ſumme of money, and of dangerous conſequence.</p>
+            </div>
+            <div n="3" type="part">
+               <pb facs="tcp:125440:4"/>
+               <head>3 <hi>The firſt riſing of the Rebels.</hi>
+               </head>
+               <p>The firſt riſing was in the County of <hi>Farmanar,</hi> the Lord Maquare being the chiefe Agent in their Rebellion, who lived about 13 miles from <hi>Beltur bit</hi> Northward, toward Eniskillen, which Lord Maquare is ſince taken, and now priſoner in the Caſtle at Dublin, he is of the bloud of that great Traytor, Ma<g ref="char:EOLhyphen"/>quere the Generall of Terhones Army, that great Rebell to Queene <hi>Elizabeth.</hi>
+               </p>
+               <p>The firſt morning which vvas of their riſing, was ſuſpected from the words of one <hi>Daniell Caton of Mountragh,</hi> which was to this effect: that the times were better when the ſtrongeſt men had moſt, and that he (being a great Iriſh papiſt) did hope to ſee it ſo againe ere long: whereupon he was examined by Mr. <hi>Vlmſtid,</hi> Miniſter of the ſaid <hi>Mountragh,</hi> and Juſtice of peace for the County, and by him com<g ref="char:EOLhyphen"/>mitted to priſon, till the next Sizes: at which time he was cenſured to ſtand in the pillory, which he did at the Fortileſſe in the Market place, vvhich hee would not confeſſe any thing: onely vvhat vvas ga<g ref="char:EOLhyphen"/>thered upon comectures.</p>
+               <p>Another, one Dono Glay vvas hanged, dravvne, and quartered, at Bandon bridge, for ſaying that the Crovvne of <hi>Ireland</hi> vvas too good for the King of <hi>England,</hi> or to that effect.</p>
+               <p>And novv have the Rebels camped themſelves, ri<g ref="char:EOLhyphen"/>ſing in rebellion, to doe vvhat they can to ruine the <hi>Proteſtants in that Kingdome.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:125440:5"/>
+They roſe in the night, and marched towards <hi>Bel<g ref="char:EOLhyphen"/>turbit</hi> with a running Camp, which Town they took and alſo the L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>die But<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers Caſtle, where ſhe and her child en were; but (by the provide<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of God) made an eſcape, and got away. Mr. <hi>Rodes</hi> the Miniſter with ſome other alſo m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de an eſcape, and fled into a wood neare the ſaid Caſtle and there hid themſelves, and the reſt of the Engliſh remaining in the towne, were forced to yeeld it up to the Rebels.</p>
+               <p>Others of the <hi>Rebels</hi> marched to <hi>Armagh</hi> the ſame night: for they are a running Camp ſcattered up and (owne the Country, which Towne they prefently tooke, and burned the ſame night alſo, which was a Towne full of rich Marchants, both Engliſh and Scottiſh, whom they murdered in a moſt cruell and bloudy manner, with their wives and children: firſt deflowring many of the women, then cruelly mur<g ref="char:EOLhyphen"/>dering them, and pulling them about the ſtreet by the haire of the head, and daſhing their childrens brains out againſt the poſts and ſtones in the ſtreet, and toſ<g ref="char:EOLhyphen"/>ſing their children upon their pikes, and ſo running with them from place to place, ſaying, that thoſe were the pigs of the Engliſh ſoves. In like manner have they dealt with the Inhabitants at <hi>Logall,</hi> a town five mile from the ſaid <hi>Armagh,</hi> an Engliſh Planta<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div n="4" type="part">
+               <head>4 <hi>The continuance of the Rebels cruelty.</hi>
+               </head>
+               <p>The Biſhop of <hi>Kildare</hi> is in great danger, againſt whom they threaten with great words, that they will make him, and all the reſt of the puritan Dogs (as they call them) to leave rayling againſt their holy
+<pb facs="tcp:125440:5"/>Father the Pope in their pulpits, as they doe.</p>
+               <p>This running Campe of Rebels doe ſcatter them<g ref="char:EOLhyphen"/>ſelves up and downe the Country, murdering the Engliſh in great cruelty: not onely the <hi>Proteſtants,</hi> but even the very papiſts alſo in many places. In which rage &amp; cruelty of theirs, when they have moſt bloodily ſlain divers good <hi>Proteſtants</hi> of worth, they have hanged them up upon the Gates in great diſ<g ref="char:EOLhyphen"/>daine, and driving others out of their eſtates, which is the leaſt injury they uſe to any where they come.</p>
+            </div>
+            <div n="5" type="part">
+               <head>5. <hi>The cruell uſage of Mr.</hi> John Treadwell, <hi>at</hi> Kildmurrey.</head>
+               <p>There came ſome of the <hi>Rebels</hi> to the houſe of one Mr. Treadwill of Kildmurrey in the night, who broke in violently unto him, and would have killed all that were in the houſe, but that one of their own company called Bryan of Demſhie, a baſe ſon to the Earle of Claumelero, that he had by his own daugh<g ref="char:EOLhyphen"/>ter, by whoſe perſwaſion, the reſt of the rebels were perſwaded not to kill them, but yet they were very cruell to him; for they tooke him, and ſtript him naked, and bound his hands behind him, &amp; ſo ſet him upon a little narrow bridge, or rather a poſt croſſe a brooke, where they left him; till it pleaſed God he was afterwards relieved: and it pleaſed God, that ſome of them were taken, and <hi>Bryan of Demſhie</hi> is now in priſon at the Fortineſſe.</p>
+               <p>But Mr. Treadwell was faine to remove to Dub<g ref="char:EOLhyphen"/>lin, who dare not adventure to live in <hi>Kildmurrey</hi> during this their rebellion, which God in his good time grant to ceaſe.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
